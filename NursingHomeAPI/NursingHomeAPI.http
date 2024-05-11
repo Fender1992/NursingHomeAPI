@@ -1,0 +1,6 @@
+@NursingHomeAPI_HostAddress = http://localhost:5124
+
+GET {{NursingHomeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
